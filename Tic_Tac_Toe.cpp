@@ -1,7 +1,7 @@
 /***************************************************************
 __author__ = Himanshu Sharma
 __email__  = himanshusharma2972@gmail.com
-__Github__ = https://github.com/himanshu-sharma2018
+__Github__ = https://github.com/himanshuthecoder
 
 About program:- This is a simple Tic Tac Toe Game 
 				written in c++ for practice purpose
